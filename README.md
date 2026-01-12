@@ -32,3 +32,31 @@ Ideal for economics olympiad preparation, university applications (PPE/Political
 2. Create a `.env` file in the root directory:
    ```env
    FRED_API_KEY=your_api_key_here
+Open your browser at: http://localhost:8501
+
+## 🧠 Key Features
+- Feature     Compare yield curves during crises (2008, 2020) vs. normal periods
+- Economic Insight     Quantify interest rate risk using duration theory
+- Historical Scenarios     PCA Decomposition
+- Bond Impact Analysis       Validate Litterman & Scheinkman (1991): 3 factors explain >90% of variance
+
+## 📚 Academic Context
+- Theory: Based on fixed income frameworks from Fabozzi, Tuckman, and CFA curriculum
+- Data: Federal Reserve Economic Data (FRED) — official U.S. Treasury yields
+- Tools: Python (NumPy, SciPy, scikit-learn), Streamlit for interactive UI
+- Purpose: Bridge economic theory and data science for PPE/Political Economy application
+
+## 📁 Project Structure
+- yield_curve_simulator.py   # Main application with 3 tabs: Simulator, Bond, PCA
+- requirements.txt           # Exact package versions
+- screenshots/               # Demo images for README
+
+## 🌐 Data Source
+- FRED Series: DGS1MO, DGS3MO, DGS1, DGS2, DGS3, DGS5, DGS7, DGS10, DGS20, DGS30
+- Official site: https://fred.stlouisfed.org
+### 🎓 About the Author
+- Belous Ivan: Developed by a 10th-grade student at Letovo School with a focus on:
+
+- All-Russian School Olympiad in Economics (ВсОШ)
+- University applications in PPE and Political economy (Philosophy, Politics, and Economics)
+- Independent research in macroeconomics and financial markets
