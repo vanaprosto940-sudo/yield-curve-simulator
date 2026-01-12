@@ -55,7 +55,7 @@ Open your browser at: http://localhost:8501
 - FRED Series: DGS1MO, DGS3MO, DGS1, DGS2, DGS3, DGS5, DGS7, DGS10, DGS20, DGS30
 - Official site: https://fred.stlouisfed.org
 ### 🎓 About the Author
-- Belous Ivan: Developed by a 10th-grade student at Letovo School with a focus on:
+-  Developed by Belous Ivan a 10th-grade student at Letovo School with a focus on:
 
 - All-Russian School Olympiad in Economics (ВсОШ)
 - University applications in PPE and Political economy (Philosophy, Politics, and Economics)
